@@ -61,13 +61,3 @@ Cơ sở dữ liệu đã được liệt kê (enumerate) thành công.
 
 ### Mức độ rủi ro
 - Nghiêm trọng
-
-# Cấu trúc Repository
-
-```
-PoC-SQLi/
-│
-├── PoC-SQLi.md
-└── images/
-    └── *.png
-```
